@@ -306,14 +306,14 @@ nav ul li:hover .submenu {
 #subseccion4 .introduccion {
     font-size: 17px;
     line-height: 1.7;
-    color: #2c3e50; /* Un tono gris oscuro para el texto */
+    color: #ffffff; /* Un tono gris oscuro para el texto */
     text-align: justify;
     margin-bottom: 25px;
 }
 
 #subseccion4 .subtitulo {
     font-size: 22px;
-    color: #16a085; /* Color verde azulado para los subtítulos */
+    color: #ffffff; /* Color verde azulado para los subtítulos */
     margin-top: 30px;
     font-weight: bold;
     text-transform: uppercase; /* Subtítulos en mayúsculas */
@@ -322,7 +322,7 @@ nav ul li:hover .submenu {
 
 #subseccion4 .lista-tipos {
     font-size: 16px;
-    color: #34495e;
+    color: #ffffff;
     line-height: 1.6;
     margin-left: 20px;
     padding-left: 10px;
@@ -345,14 +345,14 @@ nav ul li:hover .submenu {
 
 #subseccion4 .referencias-titulo {
     font-size: 19px;
-    color: #34495e;
+    color: #ffffff;
     margin-top: 40px;
     font-weight: bold;
 }
 
 #subseccion4 .referencias {
     font-size: 15px;
-    color: #2c3e50;
+    color: #788c9f;
     text-align: justify;
     margin-top: 10px;
 }
@@ -503,9 +503,16 @@ nav ul li:hover .submenu {
     margin-top: 30px;
 }
 
-#subseccion6 a:hover {
-    color: #3a8bd6;
+#Aspecto1 {
+    padding: 40px;
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(24, 202, 233, 0.1);
+    scroll-margin-top: 100px;
+    margin-top: 30px;
 }
+
 
 .submenu a:hover {
     color: #ffffff; /* Color del texto al pasar el mouse por encima */
